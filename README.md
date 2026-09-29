@@ -1,4 +1,4 @@
-# Stammdatenpflege-Datenqualit-t
+# Stammdatenpflege-Datenqualität
 Power BI Dashboard zur Analyse und Überprüfung der Stammdatenqualität. Das Dashboard zeigt fehlerhafte Datensätze, mögliche Duplikate und die Verteilung der Artikel nach Kategorien.
 # Stammdatenqualität – Power BI Dashboard
 
