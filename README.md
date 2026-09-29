@@ -46,3 +46,11 @@ Mit diesem Projekt möchte ich meine Kenntnisse in den Bereichen
 - SQL
 
 praktisch anwenden und weiterentwickeln.
+
+## 💡 Was ich gelernt habe
+
+Durch dieses Projekt habe ich praktische Erfahrungen bei der Prüfung und Aufbereitung von Stammdaten gesammelt.
+
+Ich habe gelernt, Daten systematisch zu prüfen, Fehler zu erkennen und die Ergebnisse mit Power BI verständlich darzustellen.
+
+Das Projekt verbindet meine Kenntnisse aus meiner Weiterbildung im Bereich Data Analytics mit einem praktischen Beispiel aus dem Bereich Stammdatenqualität.
